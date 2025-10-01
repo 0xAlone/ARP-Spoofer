@@ -22,11 +22,11 @@ Install dependencies:
 ```bash
 pip install scapy
 ```
-##📦 Usage
+## 📦 Usage
 ```bash
 sudo python3 arp_spoof.py -t <TARGET_IP> -s <GATEWAY_IP>
 ```
-##Example:
+## Example:
 ```bash
 sudo python3 arp_spoof.py -t 192.168.1.10 -s 192.168.1.1
 ```
